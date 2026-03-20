@@ -13,7 +13,7 @@ This project is an exploratory data analysis performed on retail sales data. The
 
 ## Key Findings
 - The superstore achieved a 12.47% profit margin, above the retail industry average of 3-10%
-- The top 3 loss-making product sub-categories of the superstore are Tables (~$17K in losses), Bookcases (~$3K in losses) and Supplies (~$1K in losses)
+- The top 3 loss-making product sub-categories are Tables (approx. -$17K), Bookcases (approx. -$3K) and Supplies (approx. -$1K)
 - There is a wide gap between the average discount rates for profitable (8%) and unprofitable (47%) sub-categories and a weak negative correlation between profit and discount, however the least profitable sub-categories did not have the highest discount rates
 - Sales show consistent seasonal peaks in September and November-December and an overall upward trend from 2014-2017
 
